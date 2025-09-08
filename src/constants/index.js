@@ -117,7 +117,47 @@ export const myProjects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
+title: "QuizLab",
+description:
+  "A quiz application with timed challenges, multiple difficulty levels, and an engaging UI to test knowledge interactively.",
+subDescription: [
+  "Built a timer-based quiz system for an engaging experience.",
+  "Added Easy, Medium, and Hard difficulty modes.",
+  "Designed a responsive and interactive UI with React and Tailwind CSS.",
+  "Implemented dynamic question management and scoring logic.",
+  "Optimized for seamless performance across devices."
+],
+
+
+    href: "https://quiz-app-xi-fawn.vercel.app/",
+    logo: "",
+    image: "/assets/projects/quiz.png",
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
+      },
+      {
+        id: 3,
+        name: "TypeScript",
+        path: "/assets/logos/typescript.svg",
+      },
+      {
+        id: 4,
+        name: "React-GSAP",
+        path: "/assets/logos/gsap.png",
+      },
+    ],
+  },
+  {
+    id: 5,
     title: "Personal Tracker",
     description:
       "A full-stack personal tracker application designed to help users build habits, track progress, and stay motivated through challenges.",
@@ -152,43 +192,6 @@ export const myProjects = [
         id: 4,
         name: "Clerk",
         path: "/assets/logos/clerk.svg",
-      },
-    ],
-  },
-  {
-    id: 5,
-    title: "WordPress Custom Theme",
-    description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
-    subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
-      },
-      {
-        id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
-      },
-      {
-        id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
-      },
-      {
-        id: 4,
-        name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
       },
     ],
   },
