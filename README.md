@@ -77,8 +77,8 @@ https://github.com/user-attachments/assets/88f97b5b-b03b-4d68-a633-ef8488f75272
 If you like my work or want to collaborate, feel free to connect:
 
 - **Email:** kushagrachandra1807@gmail.com 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kushagra-chandra-143948303/)  
-- **Portfolio:** [Your Portfolio Link](https://portfolio-sandy-one-ilvg2zr6lr.vercel.app/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kushagra-chandra-143948303/)  
+- **Portfolio:** [Portfolio](https://portfolio-sandy-one-ilvg2zr6lr.vercel.app/)  
 
 ---
 
