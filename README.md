@@ -62,9 +62,13 @@ npm run lint
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-> _(Add screenshots or GIFs of your portfolio here)_  
+
+https://github.com/user-attachments/assets/88f97b5b-b03b-4d68-a633-ef8488f75272
+
+
+
 
 ---
 
